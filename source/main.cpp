@@ -1,6 +1,6 @@
-#include "BLENano.h"
+#include "TeknikioDevice.h"
 
-BLENano nano;
+TeknikioDevice nano;
 
 int main()
 {

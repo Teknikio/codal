@@ -1,10 +1,10 @@
 [
     {
-        "name": "codal-bluebird",
+        "name": "codal-nrf52840-dk",
         "info":"This target specifies the nrf52840 dk.",
         "device_url":"",
         "url": "https://github.com/Teknikio/codal-bluebird",
-        "branch": "master",
+        "branch": "update/bluebird_specific",
         "type": "git"
     },
     {
